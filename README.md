@@ -1,4 +1,4 @@
-# About
+# All about me
 <h1 align="center">Hi 👋, I'm Euan</h1>
 <h3 align="center">A budding backend developer from Wales</h3>
 
